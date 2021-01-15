@@ -47,7 +47,7 @@ cities_list = ["San Francisco, California",
 You can then use the `get_analysis_per_city()` function using the `foursquare_utils.py` script.
 
 ```python
-import foursquare_utils
+from src import foursquare_utils
 results_dir = "Example/"
 foursquare_utils.get_analysis_per_city(cities_list, num_venues=10, radius=1000, clusters=3, saving_dir=results_dir)
 ```
@@ -79,7 +79,7 @@ Example
 
 - `clustering_results_map.html`: contains a `Folium` map with each city color coded for the cluster it belongs to. 
 
-![Folium Map](Figures/map2.JPG)
+![Folium Map](Figures/map3.PNG)
 
 You can see in this case that San Francisco and Boston are found to be the similar. 
 

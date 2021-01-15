@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import requests
-import config
+from src import config
 import json
 from pandas.io.json import json_normalize # tranform JSON file into a pandas dataframe
 import matplotlib.pyplot as plt
@@ -11,7 +11,7 @@ from sklearn import preprocessing
 from sklearn.cluster import KMeans
 from joblib import dump, load
 import os
-import geopy_utils
+from src import geopy_utils
 import shutil
 
 import folium

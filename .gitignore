@@ -1,5 +1,5 @@
 
-config.py
+src/config.py
 .DS_Store
 .vscode/settings.json
 __pycache__/config.cpython-37.pyc

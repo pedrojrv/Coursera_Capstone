@@ -1,9 +1,14 @@
 City,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
-Austin,Cocktail Bar,Italian Restaurant,Nightclub,Seafood Restaurant,Cajun / Creole Restaurant,Steakhouse,Lounge,Hotel,Restaurant,Gym
-Boston,Yoga Studio,Restaurant,French Restaurant,Historic Site,History Museum,Italian Restaurant,Library,Park,Pizza Place,Lake
-Chicago,Theater,Hotel,Cuban Restaurant,Salad Place,Food Court,Coffee Shop,Falafel Restaurant,Japanese Restaurant,Italian Restaurant,History Museum
-Denver,Theme Park Ride / Attraction,Aquarium,Stadium,Museum,Park,Pub,Sporting Goods Shop,Coffee Shop,Sushi Restaurant,Boutique
-Los Angeles,Arts & Crafts Store,Breakfast Spot,Speakeasy,Wine Bar,Flower Shop,Bar,Taco Place,Restaurant,Gym,Food Court
-New York City,Bakery,Sandwich Place,Japanese Restaurant,Deli / Bodega,Sushi Restaurant,Russian Restaurant,Tattoo Parlor,Bagel Shop,Vietnamese Restaurant,History Museum
-San Francisco,Boutique,Men's Store,Jewelry Store,Cocktail Bar,Cosmetics Shop,Kitchen Supply Store,Electronics Store,Flower Shop,Japanese Restaurant,Italian Restaurant
-Seattle,Hotel,Sandwich Place,Cocktail Bar,Noodle House,Social Club,Spa,Coffee Shop,Clothing Store,Breakfast Spot,French Restaurant
+Austin,Cocktail Bar,Coffee Shop,Italian Restaurant,Theater,Hotel,Steakhouse,Grocery Store,Cajun / Creole Restaurant,Seafood Restaurant,New American Restaurant
+Boston,Theater,Spa,Italian Restaurant,Hotel,Lounge,Garden,French Restaurant,Seafood Restaurant,Mobile Phone Shop,Park
+Chicago,Theater,Hotel,Coffee Shop,Seafood Restaurant,Salad Place,Falafel Restaurant,Food Court,Cuban Restaurant,Mobile Phone Shop,Museum
+Dallas,Hotel,Indian Restaurant,Bistro,French Restaurant,Mobile Phone Shop,New American Restaurant,Pool,Salad Place,Coffee Shop,Sporting Goods Shop
+Denver,Theme Park Ride / Attraction,Aquarium,Basketball Stadium,Coffee Shop,Park,Museum,Sporting Goods Shop,Pub,Sushi Restaurant,Marijuana Dispensary
+Houston,Performing Arts Venue,Theater,Concert Hall,Italian Restaurant,Music Venue,Sushi Restaurant,Park,Pizza Place,Pedestrian Plaza,New American Restaurant
+Los Angeles,Arts & Crafts Store,Yoga Studio,Taco Place,Restaurant,Flower Shop,Speakeasy,Breakfast Spot,Bar,Wine Bar,Marijuana Dispensary
+New York City,American Restaurant,Speakeasy,Hotel,New American Restaurant,English Restaurant,Donut Shop,Pub,Café,Coffee Shop,Sporting Goods Shop
+Phoenix,Hotel,Pizza Place,Light Rail Station,Taco Place,Marijuana Dispensary,Café,Music Venue,Performing Arts Venue,Pedestrian Plaza,Park
+San Antonio,Hotel,Theater,Restaurant,Bakery,Dessert Shop,Pedestrian Plaza,Steakhouse,New American Restaurant,Music Venue,Performing Arts Venue
+San Diego,French Restaurant,Music Venue,Coffee Shop,Farmers Market,Burger Joint,Brewery,Cosmetics Shop,Ice Cream Shop,Bagel Shop,Italian Restaurant
+San Francisco,Boutique,Clothing Store,Men's Store,Salon / Barbershop,Jewelry Store,Kitchen Supply Store,Marijuana Dispensary,Lounge,Mobile Phone Shop,Museum
+Seattle,Cocktail Bar,New American Restaurant,Art Museum,Concert Hall,Bar,Hotel,Sandwich Place,Social Club,Bridal Shop,Park

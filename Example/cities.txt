@@ -6,3 +6,8 @@ New York City, NY
 Chicago, Illinois
 Austin, Texas
 Boston, Massachusetts
+Houston, Texas
+Phoenix, Arizona
+San Antonio, Texas
+San Diego, California
+Dallas, Texas
