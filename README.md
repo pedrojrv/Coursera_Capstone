@@ -79,7 +79,7 @@ Example
 
 - `clustering_results_map.html`: contains a `Folium` map with each city color coded for the cluster it belongs to. 
 
-![Folium Map](Figures/map3.PNG)
+![Folium Map](figures/map3.png)
 
 You can see in this case that San Francisco and Boston are found to be the similar. 
 
