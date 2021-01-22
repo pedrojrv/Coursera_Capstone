@@ -1,7 +1,8 @@
 # Foursquare-based City Clustering
 
-This project was at first developed as part of the IBM Data Science Professional Certificate Capstone Project. It was then developed into a single utility function that provides a way for the user to compare three or more cities using KMeans. Below you will read about the usage of the `foursquare_utils.py` utility function used to compare various tech hub cities with the purpose of finding the most similar one to San Francisco.
+This project was at first developed as part of the IBM Data Science Professional Certificate Capstone Project. It was further developed into a single utility function which provides an easy way for a user to compare three or more cities using KMeans clustering with data provided by Foursquare. This repository contains several examples and tutorials. In the main example, major tech hub cities including San Francisco, Chicago, and Boston are compared based on the most popular venues. Below you will find more information on the usage of the `foursquare_utils.py` utility function.
 
+For this proof-of-concept unsupervised challenge, a simple k-Means clustering model was selected. Future work includes using other great algorithms like DBSCAN and OPTICS. The location of the cities is not a feature in the dataset and must not be. Including this will simply make recommendations based on physical distance. What we want is recommendations based on environmental and social factors. Due to the limitations of the Foursquare API free tier, only the twenty most popular venues were extracted. In an ideal scenario, the dataset would be bigger and user preferences could be extracted. 
 
 ## Usage
 
